@@ -5,7 +5,7 @@ date: 2019-09-01 21:46:33 +0800
 description: # Add post description (optional)
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-thumbnail: 2019-09-01-haworthia-cooperi-thumbnail.png # add thumbnail (optional)
+thumbnail: 2019-09-01-haworthia-cooperi-thumbnail.jpg # add thumbnail (optional)
 tags: []
 ---
 玉露也是新手入門的好選擇，當然是從平價的品種開始。可以比照十二之卷照顧，但玉露的日照要少一些，不如十二之卷耐曬。
