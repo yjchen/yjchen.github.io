@@ -3,7 +3,7 @@ layout: post
 title: "十二之卷(百合科十二卷屬)"
 date: 2019-08-30 21:33:41 +0800
 description: # Add post description (optional)
-img: # Add image post (optional)
+img: 2019-08-30-haworthiopsis-fasciata.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: []
 ---
