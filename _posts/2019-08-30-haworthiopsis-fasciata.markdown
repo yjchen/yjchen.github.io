@@ -3,8 +3,9 @@ layout: post
 title: "十二之卷(百合科十二卷屬)"
 date: 2019-08-30 21:33:41 +0800
 description: # Add post description (optional)
-img: 2019-08-30-haworthiopsis-fasciata.jpg # Add image post (optional)
+img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+thumbnail: 2019-08-30-haworthiopsis-fasciata-thumbnail.jpg # add thumbnail (optional)
 tags: []
 ---
 十二之卷應該是新手入門多肉植物的第一選擇，照顧容易又平價。
