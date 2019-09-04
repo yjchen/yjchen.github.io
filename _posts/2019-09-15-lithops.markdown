@@ -1,0 +1,14 @@
+---
+layout: post
+title: "石頭玉(番杏科生石花屬)"
+date: 2019-09-15 23:06:24 +0800
+description: # Add post description (optional)
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+thumbnail: 2019-09-15-lithops-thumbnail.jpg # add thumbnail (optional)
+tags: ["aizoaceae", "lithops"]
+---
+石頭玉是番杏科中最有名的品種。種子繁殖容易，但成長緩慢，因此植株大小價差大。石頭玉容易化水，跟種植方式及環境有關。
+所以建議從小顆的開始，等到上手後再入手大顆的石頭玉。亦可以從種子開始，只是生長緩慢，需要耐性。
+
+![Lithops]({{site.baseurl}}/assets/img/2019-09-15-lithops-thumbnail.jpg)
